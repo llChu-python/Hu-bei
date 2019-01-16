@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 # Project: ml_more_algorithm
-# Author: chaoxu create this file
-# Time: 2018/5/22
-# Company : Maxent
-# Email: chao.xu@maxent-inc.com
+# Author: beihu create this file
+# Time: 2019/1/15
+# Email:18321527806@163.com
 """
 插入排序是排序中最简单的一个，基本思想就是:
 通过按下标在连续表的前端或者后端积累已经排序的序列,
