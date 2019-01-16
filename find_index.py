@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-# Project: maxent-ml
-# Author: chaoxu create this file
-# Time: 2018/2/28
-# Company : Maxent
-# Email: chao.xu@maxent-inc.com
-
 
 def binarySearch(nums, target):
     # write your code here
